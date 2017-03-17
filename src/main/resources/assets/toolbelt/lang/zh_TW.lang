@@ -1,0 +1,10 @@
+item.toolbelt.belt.name=工具腰帶
+item.toolbelt.pouch.name=腰帶小袋
+key.toolbelt.open=交換工具
+key.toolbelt.category=工具腰帶
+text.toolbelt.empty=空
+text.toolbelt.swap=交換
+text.toolbelt.insert=放入
+text.toolbelt.extract=取出
+text.toolbelt.tooltip=升級：%s（%s 格）
+text.toolbelt.jei.belt.upgrade=鐵砧（腰帶升級）
